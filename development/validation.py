@@ -6,7 +6,7 @@ import os
 # with open(file,"rb") as toml:
 #   alert = tomllib.load(toml)
 
-for root, dirs, files in os.walk("E:\\DEB\\TOML lab\\converted_detections"):
+for root, dirs, files in os.walk("detections/"):
     for file in files:
         if file.endswith(".toml"):
             full_path = os.path.join(root, file)
