@@ -1,3 +1,6 @@
+[metadata]
+creation_date = "2024/03/30"
+
 [rule]
 author = ["Joseph Jee"]
 description = "Using Zeek HTTP data, we're looking at .bat file extensions on any destination port that isn't port 80."
