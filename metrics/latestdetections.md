@@ -3,11 +3,6 @@
 ### Alerts
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
-|Suspicious File Added to Registry|2024/03/30|['Joseph Jee']|75|high|
-## Last Month
-### Alerts
-| Alert | Date | Author | Risk Score | Severity |
-| --- | --- | --- | --- | --- |
 |PowerShell Execution via a BAT File|2024/03/30|['Joseph Jee']|50|medium|
 ## Last Month
 ### Alerts
@@ -23,16 +18,6 @@
 ### Alerts
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
-|PowerShell Invoke-WebRequest Downloading .BAT File|2024/03/30|['Joseph Jee']|50|medium|
-## Last Month
-### Alerts
-| Alert | Date | Author | Risk Score | Severity |
-| --- | --- | --- | --- | --- |
-|Suspicious File Written to Temp Directory|2024/03/30|['Joseph Jee']|75|high|
-## Last Month
-### Alerts
-| Alert | Date | Author | Risk Score | Severity |
-| --- | --- | --- | --- | --- |
 |Data Archive for Potential Exfil|2024/03/30|['Joseph Jee']|1|medium|
 ## Last Month
 ### Alerts
@@ -44,8 +29,13 @@
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
 |Potential MSF PowerShell Payload Observed|2024/03/30|['Joseph Jee']|50|high|
-## Last Month
+## Two Months Ago
 ### Alerts
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
-|Web Scanner Activity - Nmap and Nikto|2024/03/30|['Joseph Jee']|25|low|
+|Suspicious File Written to Temp Directory|2024/02/20|['Joseph Jee']|75|high|
+## Two Months Ago
+### Alerts
+| Alert | Date | Author | Risk Score | Severity |
+| --- | --- | --- | --- | --- |
+|Web Scanner Activity - Nmap and Nikto|2024/02/11|['Joseph Jee']|25|low|
